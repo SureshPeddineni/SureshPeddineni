@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Suresh Peddineni<br>
-MCA Graduate ||<br>Python Developer with hands-on experience in developing web applications, REST APIs, and Computer Vision projects using <br>Python and OpenCV. Skilled in Django, MySQL, HTML, CSS, and JavaScript with strong problem-solving abilities and <br>knowledge of backend development, API integration, and real-time application development. Passionate about building <br>scalable and user-friendly applications with clean and maintainable code. 
+MCA Graduate ||<br>Python Developer with hands-on experience in developing web applications, REST APIs, and Computer Vision projects using Python and OpenCV. Skilled in Django, MySQL, HTML, CSS, and JavaScript with strong problem-solving abilities and knowledge of backend development, API integration, and real-time application development. Passionate about building <br>scalable and user-friendly applications with clean and maintainable code. 
 
 Email Me 👉 ✉️ peddinenisuresh99@gmail.com
 
