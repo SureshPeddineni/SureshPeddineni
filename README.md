@@ -6,6 +6,9 @@ Email Me 👉 ✉️ peddinenisuresh99@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SureshPeddineni&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SureshPeddineni&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suresh-peddineni-918a9724b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peddinenisuresh99@gmail.com) 
